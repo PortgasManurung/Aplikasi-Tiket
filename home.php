@@ -1,0 +1,163 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/style1.css">
+
+<script type="text/javascript" src="js/jquery-1.4.2.js" ></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script> 
+<script type="text/javascript" src="js/Myriad_Pro_italic_600.font.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_italic_400.font.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_400.font.js"></script>
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
+	<script type="text/javascript" src="js/html5.js"></script>
+<![endif]-->
+</head>
+
+<style>
+#logo {display:block;background:url(images/logofix.png) 0 0 no-repeat;width:176px;height:39px;text-indent:-5000px}
+.col1, .col2, .col3, .cols {float:left}
+.col1 {width:346px;background:#f4f4f4;height:100%} 
+.col2 {width:544px}
+.cols {width:280px}
+/* index.html */
+#page1 h1 {padding-top:33px}
+#page1 #top_nav {padding-top:33px}
+#page1 #menu {padding-top:12px}
+#page1 header {height:126px}
+#page1 #banner {background:url(images/gg.jpg) 0 0 no-repeat; height:283px;padding:60px 0 0 30px}
+ 
+#page2 .cols {width:249px}
+ 
+#page3 .cols {width:249px}
+ 
+#page5 .cols {width:80px}
+
+
+</style>
+<body id="page1">
+<div class="body1">
+	<div class="main">
+<!-- header -->
+
+		<header>
+			<div class="wrapper">
+				<h1>
+				<img src="logo (2).png" class="logo">
+					<a href="home.php" <img src="logo (2).png" class="logo"> </a>
+				</h1>
+				<div class="right">
+					<nav>
+						<ul id="top_nav">
+							<li><a href="home.php"><img src="images/img1.gif" alt=""></a></li>
+							<li><a href="Akun.php"><img src="images/img2.gif" alt=""></a></li>
+							
+						</ul>
+					</nav>
+					<nav>
+						<ul id="menu">
+							<li id="menu_active"><a href="home.php">Home</a></li>
+							<li><a href="pesawat.php">Pesawat</a></li>
+							<li><a href="kereta.php">Kereta</a></li>
+							<li><a href="reschedule.php">Reschedule</a></li>
+							<li><a href="Akun.php">Akun</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</header>
+	</div>
+</div>
+<div class="main">
+	<div id="banner">
+		<div class="text1">
+			Seribu Tiket<p>Cari tiket pesawat dan kereta api ?Kunjugi Seribu Tiket</p>
+		</div>
+		
+	</div>
+</div>
+<!-- / header -->
+<div class="main">
+<!-- content -->
+	<section id="content">
+		<article class="col1">
+			<div class="pad_1">
+
+				<h2>Promo Terbaru</h2>
+				<p class="under"><a href="#" class="link1">Promo Libur Akhir Tahun</a><br>1 Desember - 15 Desember 2017</p>
+				<p class="under"><a href="#" class="link1">Promo Tahun Baru</a><br>25 Desember 2017 - 5 Januari 2018</p>
+				
+			</div>
+		</article>
+		<article class="col2 pad_left1">
+			<h2>Selamat Datang di Seribu Tiket</h2>
+			<p class="color1">Pesan Tiket Perjalanan Pesawat Udara Dan Kereta Api</p>
+			<div class="marker">
+				<div class="wrapper">
+					<p class="pad_bot2"><strong>Pesan Tiket Lebih Cepat Dan Mudah</strong></p>
+					
+				</div>
+			</div>
+			<div class="marker">
+				<div class="wrapper">
+					<p class="pad_bot2"><strong>Atur Jadwal Keberangkatan</strong></p>
+					
+				</div>
+			</div>
+			<div class="marker">
+				<div class="wrapper">
+					<p class="pad_bot2"><strong>Atur Harga Sesuai Budget</strong></p>
+					
+				</div>
+			</div>
+			
+			
+			<div class="marker">
+				<div class="wrapper">
+					<p class="pad_bot2"><strong>Cukup Dengan Satu Akun</strong></p>
+					
+				</div>
+			</div>
+			<div class="wrapper pad_bot2">
+				
+			</div>
+			<div class="wrapper">
+				<article class="cols">
+					<h2>Dapatkan Promo Menarik</h2>
+					<p><strong></strong> Dapatkan Promo Menarik Di Seribu Tiket Dengan Mendaftar Menggunakan Layanan Dan Dapatkan Kode Untuk Memperoleh Promo Tersebt.</p>
+					<p></p>
+				</article>
+				<div class="box1">
+					<div class="pad_1">
+						<div class="wrapper">
+							<p class="pad_bot2">Di Seribu Tiket Anda Dapat Memesan Tiket Untuk Perjalanan Anda Dengan Lebih Mudah, Dan Juga Promo-Promo Menarik Yang Ditawarkan Dapat Membuat Anda Puas Dengan Pelayannanya </p>
+							<p><span class="right">Isnan Akbar</span>&nbsp;<br></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	</section>
+<!-- / content -->
+</div>
+<div class="body2">
+	<div class="main">
+<!-- footer -->
+		<footer>
+			Copyright<br>
+			<a href="home.php" target="_blank" rel="nofollow">Seribu Tiket</a>
+		</footer>
+<!-- / footer -->
+	</div>
+</div>
+<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
